@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-<meta name="keywords" content="Hino Jakarta Indonesia, Dealer Hino, Truk Hino, Bus Hino, Dealer Resmi Hino, Jual Truk">
+<meta name="keywords" content="Hino Jakarta Indonesia, Dealer Hino, Truk Hino, Bus Hino, Dealer Resmi Hino, Jual Truk Hino">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <title>HINO Jakarta Indonesia - Dealer Resmi Hino</title>
