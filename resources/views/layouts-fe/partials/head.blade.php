@@ -1,12 +1,31 @@
 <meta charset="UTF-8">
-<meta name="keywords" content="HVAC, unica, creative, html">
+<meta name="keywords" content="Hino Jakarta Indonesia, Dealer Hino, Truk Hino, Bus Hino, Dealer Resmi Hino, Jual Truk">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>HINO</title>
+<title>HINO Jakarta Indonesia - Dealer Resmi Hino</title>
+<meta name="description" content="Dealer Resmi Hino. Dapatkan truk dan bus Hino dengan penawaran terbaik. Hubungi kami untuk konsultasi dan penawaran spesial!">
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "HINO Jakarta Indonesia",
+      "description": "Dealer resmi Hino menyediakan berbagai model truk dan bus dengan layanan terbaik.",
+      "image": "https://hinojakartaindonesia.com/assets/img/thumbnail/thumbnail-hino.png",
+      "url": "https://hinojakartaindonesia.com",
+      "openingHours": "Mo-Fr 08:00-17:00",
+      "sameAs": [
+        "https://www.facebook.com/hinojakartaindonesia",
+        "https://www.instagram.com/hinojakartaindonesia"
+      ]
+    }
+    </script>
+
+
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="HINO Jakarta Indonesia">
-{{-- <meta property="og:description" content="HVAC Template"> --}}
+<meta property="og:title" content="HINO Jakarta indonesua - Dealer Resmi Hino">
+<meta property="og:description" content="Dealer resmi Hino menyediakan berbagai model truk dan bus dengan layanan terbaik. Hubungi kami sekarang!">
 <meta property="og:image:secure"content="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}">
 <meta property="og:image" content="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}">
 <meta property="og:url" content="https://hinojakartaindonesia.com">
@@ -18,6 +37,7 @@
 {{-- <meta name="twitter:description" content="HVAC Template"> --}}
 <meta name="twitter:image" content="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}">
 
+<link rel="canonical" href="https://hinojakartaindonesia.com">
 <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}" />
 <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}" />
 <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}" />
