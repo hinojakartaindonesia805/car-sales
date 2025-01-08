@@ -24,7 +24,7 @@
 
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="HINO Jakarta indonesua - Dealer Resmi Hino">
+<meta property="og:title" content="HINO Jakarta indonesia - Dealer Resmi Hino">
 <meta property="og:description" content="Dealer resmi Hino menyediakan berbagai model truk dan bus dengan layanan terbaik. Hubungi kami sekarang!">
 <meta property="og:image:secure"content="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}">
 <meta property="og:image" content="{{ asset('assets/img/thumbnail/thumbnail-hino.png') }}">
